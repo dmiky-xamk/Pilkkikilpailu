@@ -1,0 +1,11 @@
+.section-rules {
+  padding: 4.2rem 0;
+}
+
+.rules-list {
+  font-size: 1.8rem;
+}
+
+.rules-list li + li {
+  margin-top: 1.6rem;
+}

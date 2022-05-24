@@ -1,0 +1,32 @@
+.section-enroll {
+  padding: 4.2rem 0;
+}
+
+.enroll-form {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.8rem;
+}
+
+.contact {
+  grid-row: 3;
+  font-size: 2rem;
+}
+
+.phone,
+.email {
+  grid-row: 4;
+}
+/* 
+.btn {
+  grid-row: 5;
+} */
+
+.radio {
+  grid-row: 5;
+}
+
+.grid-middle {
+  justify-self: center;
+  grid-column: 1 / -1;
+}
