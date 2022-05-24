@@ -1,4 +1,3 @@
-import "./App.css";
 import { Routes, Route } from "react-router";
 import { Fragment } from "react";
 import Layout from "./components/Layout/Layout";
